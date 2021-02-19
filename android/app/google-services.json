@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "808125002327",
+    "firebase_url": "https://ios-apps-b0ed9.firebaseio.com",
+    "project_id": "ios-apps-b0ed9",
+    "storage_bucket": "ios-apps-b0ed9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808125002327:android:05819b12c09f07b617a912",
+        "android_client_info": {
+          "package_name": "com.example.water_reminding_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808125002327-0j003pqflhai0d93t9auhrejphii64dr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.water_reminding_flutter",
+            "certificate_hash": "163ac399ef1c721b3b1e2ab3ea09f1c8072f12f2"
+          }
+        },
+        {
+          "client_id": "808125002327-hjt7qr4h92ptgq1r27b06bpqj6b5307c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb07AtNQMrqBrArFMkdGlVchuyTAYCkEk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808125002327-hjt7qr4h92ptgq1r27b06bpqj6b5307c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "808125002327-k6ot2bn4ai8mfu9bv7t5o2aclh6866h9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "guestserv.co.id.Firebase-Training"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
